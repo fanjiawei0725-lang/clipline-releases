@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Clipline</title>
+        <item>
+            <title>1.8.1-clipline.24</title>
+            <pubDate>Wed, 04 Nov 2026 18:45:08 +0800</pubDate>
+            <link>https://github.com/fanjiawei0725-lang/clipline-releases</link>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>1.8.1-clipline.24</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Clipline 1.8.1-clipline.24
+
+- 新增自动检查更新，默认每天检查，可在菜单栏关闭。
+- “检查更新…”可直接下载、验证并安装新版。
+- 更新列表和更新包均验证 Ed25519 签名；验证失败不会安装。
+- 编辑待办时，安装重启会等待保存或取消编辑。
+- 截图与待办继续保存在本机，不随更新检查上传。
+
+首次启用更新：已有 .23 及更早版本需要手动安装本版一次，之后可通过应用内更新。
+要求 macOS 14 或更新系统，支持 Apple silicon 和 Intel Mac。
+]]></description>
+            <enclosure url="https://github.com/fanjiawei0725-lang/clipline-releases/releases/download/v1.8.1-clipline.24/Clipline-1.8.1-clipline.24.zip" length="8074092" type="application/octet-stream" sparkle:edSignature="JXUiefKJKL//BUNycJxbAzDFXom25PLc1+b6IKtfSSjTr9kNkET3UHkXQam8COC8SiIaOlx0EIYUNWLglnNfDw=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: GGogKLm2ys8VuAafWp6MME1Ep/k5KbViGlu2XNxynOKII0MFluh2dGAg0LZ6DhotZImFIdOtlJW/iftJ97IGAw==
+length: 1840
+-->
