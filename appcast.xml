@@ -6,6 +6,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Clipline</title>
         <item>
+            <title>1.8.1-clipline.29</title>
+            <pubDate>Thu, 05 Nov 2026 18:53:33 +0800</pubDate>
+            <link>https://github.com/fanjiawei0725-lang/clipline-releases</link>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>1.8.1-clipline.29</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Clipline 1.8.1-clipline.29
+
+- 修正橘猫抬爪时的矩形碎片、前肢接缝与不自然的形状。
+- 前肢使用独立的圆润轮廓，上臂与前臂保持固定长度，爪子不再变形或拉长。
+- 抬起时逐渐收腕，让收拢的爪尖朝向嘴边；头部小幅靠近前爪。
+- 保持上一版的舔爪、落爪、起身与离开节奏。
+]]></description>
+            <enclosure url="https://github.com/fanjiawei0725-lang/clipline-releases/releases/download/v1.8.1-clipline.29/Clipline-1.8.1-clipline.29.zip" length="5505589" type="application/octet-stream" sparkle:edSignature="KXJ0F16LBhTqG4oSkIfSjLHuGSLoTK1vcH9UxmU3sZB/9wgeNzow+PZOQdzgueCdyzlQIPYXUFunHpLx23iKAQ=="/>
+        </item>
+        <item>
             <title>1.8.1-clipline.28</title>
             <pubDate>Thu, 05 Nov 2026 18:30:07 +0800</pubDate>
             <link>https://github.com/fanjiawei0725-lang/clipline-releases</link>
@@ -38,25 +54,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/fanjiawei0725-lang/clipline-releases/releases/download/v1.8.1-clipline.27/Clipline-1.8.1-clipline.27.zip" length="5496210" type="application/octet-stream" sparkle:edSignature="ndWOReEHfY5gfHIaoXEoxXv+aSqDTvMtSR4l13tFgiLUmRzLs9W3rimkoSc86iH1Vb3ztkcFuzpjjJlvpqM3Cg=="/>
         </item>
-        <item>
-            <title>1.8.1-clipline.26</title>
-            <pubDate>Wed, 04 Nov 2026 21:01:54 +0800</pubDate>
-            <link>https://github.com/fanjiawei0725-lang/clipline-releases</link>
-            <sparkle:version>37</sparkle:version>
-            <sparkle:shortVersionString>1.8.1-clipline.26</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Clipline 1.8.1-clipline.26
-
-- 菜单栏新增“显示待办”开关，支持显示或隐藏整串待办，重启后保持。
-- 隐藏不删除任务，截图使用腾出的横向空间；再次显示恢复待办的位置和内容。
-- 菜单“新增待办”会先显示待办，再打开输入框。
-- 更新继续仅由用户点击“检查更新…”触发。
-]]></description>
-            <enclosure url="https://github.com/fanjiawei0725-lang/clipline-releases/releases/download/v1.8.1-clipline.26/Clipline-1.8.1-clipline.26.zip" length="8076490" type="application/octet-stream" sparkle:edSignature="+H6gu4feijUyV3QAx75yP05qq/K+xgJC55vTWa4Bjm//UtZ24EMJPKANkZPtY5kpUftvlqlT1jPYwIBAyAF3Bw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: MhrfYnb5F91xTCH2pkX4G7Boi7kKSN9Pb/+dQaEPDEpeqbT/q9tQKZNxwR2+S5liXLlx/gxVdQpnMKAj5pR3Cw==
-length: 4132
+edSignature: CtRdJB224hnkO2h2ntLfuSMT8Zhs3/CDrbT/lbBHKnO22uRGbzvYsAzNunzToCbROTIipjreIQWLXwwVz/ByBg==
+length: 4126
 -->
