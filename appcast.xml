@@ -6,6 +6,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Clipline</title>
         <item>
+            <title>1.8.1-clipline.31</title>
+            <pubDate>Thu, 05 Nov 2026 19:47:24 +0800</pubDate>
+            <link>https://github.com/fanjiawei0725-lang/clipline-releases</link>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>1.8.1-clipline.31</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Clipline 1.8.1-clipline.31
+
+- 每次展开只低头舔爪一次，随后抬头、放爪、起身离开；去掉反复抬头点头。
+- 抬爪和落爪连续经过中间姿态，消除中途停顿；延长接近爪面与回正的动作。
+- 修正姿态过渡中途的轮廓切换，改用连续轮廓过渡，减少抬爪和低头时的跳变。
+- 准备动作改用 60 fps 缓存，应用启动时预解码，避免首次动作中加载图片。
+- 保留截图手势、待办操作、每次展开只播一遍及手动检查更新。
+]]></description>
+            <enclosure url="https://github.com/fanjiawei0725-lang/clipline-releases/releases/download/v1.8.1-clipline.31/Clipline-1.8.1-clipline.31.zip" length="10823396" type="application/octet-stream" sparkle:edSignature="7LSL0YTaxhNB2FaCxDO21ojPzHv44h4t9j6Ae+Ufj5OR/TyMx+xQZqlObxvWr8LNk2ys9WxY+vA0n5WaFslcDw=="/>
+        </item>
+        <item>
             <title>1.8.1-clipline.30</title>
             <pubDate>Thu, 05 Nov 2026 19:27:08 +0800</pubDate>
             <link>https://github.com/fanjiawei0725-lang/clipline-releases</link>
@@ -37,25 +54,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/fanjiawei0725-lang/clipline-releases/releases/download/v1.8.1-clipline.29/Clipline-1.8.1-clipline.29.zip" length="5505589" type="application/octet-stream" sparkle:edSignature="KXJ0F16LBhTqG4oSkIfSjLHuGSLoTK1vcH9UxmU3sZB/9wgeNzow+PZOQdzgueCdyzlQIPYXUFunHpLx23iKAQ=="/>
         </item>
-        <item>
-            <title>1.8.1-clipline.28</title>
-            <pubDate>Thu, 05 Nov 2026 18:30:07 +0800</pubDate>
-            <link>https://github.com/fanjiawei0725-lang/clipline-releases</link>
-            <sparkle:version>39</sparkle:version>
-            <sparkle:shortVersionString>1.8.1-clipline.28</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Clipline 1.8.1-clipline.28
-
-- 橘猫舔爪与起身改为连续关节动作，去掉几个整图姿态之间的跳变。
-- 前爪渐进抬起、头颈靠近并舔爪，随后先回正落爪，再由四爪支撑、缓慢抬起骨盆。
-- 抬爪约 0.7 秒、舔爪约 2.25 秒、落爪约 0.75 秒、起身约 1.1 秒。
-- 保留沿绳离开、一次播放、取消动作与减少动态效果。
-]]></description>
-            <enclosure url="https://github.com/fanjiawei0725-lang/clipline-releases/releases/download/v1.8.1-clipline.28/Clipline-1.8.1-clipline.28.zip" length="5496505" type="application/octet-stream" sparkle:edSignature="nRA08RsK7zRr3jFBZRepYue6BT36L6dfZBPvaFJd81TBtFcEgN40ql2efVSAHTHEhzbqPuqMd7FhzB7+HR8ICg=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: pLIfdTXDjHmjgzKfmU20RpFvpAw3gdKBO+NvxHGgcyU5Oi4LxBQo/kyu7ae/Ar1F/SPImF/BI2auOeUJSj8HAQ==
-length: 4129
+edSignature: 7MM3MvXCttyKDgqk2EgpOnbESWTytz/1YgytTDmxnpGGLlBKKXAVJ26GDcPqjXnKs0zFy5ONnuMu0kL569B9CA==
+length: 4269
 -->
