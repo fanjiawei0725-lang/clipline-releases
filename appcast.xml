@@ -6,6 +6,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Clipline</title>
         <item>
+            <title>1.8.1-clipline.28</title>
+            <pubDate>Thu, 05 Nov 2026 18:30:07 +0800</pubDate>
+            <link>https://github.com/fanjiawei0725-lang/clipline-releases</link>
+            <sparkle:version>39</sparkle:version>
+            <sparkle:shortVersionString>1.8.1-clipline.28</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Clipline 1.8.1-clipline.28
+
+- 橘猫舔爪与起身改为连续关节动作，去掉几个整图姿态之间的跳变。
+- 前爪渐进抬起、头颈靠近并舔爪，随后先回正落爪，再由四爪支撑、缓慢抬起骨盆。
+- 抬爪约 0.7 秒、舔爪约 2.25 秒、落爪约 0.75 秒、起身约 1.1 秒。
+- 保留沿绳离开、一次播放、取消动作与减少动态效果。
+]]></description>
+            <enclosure url="https://github.com/fanjiawei0725-lang/clipline-releases/releases/download/v1.8.1-clipline.28/Clipline-1.8.1-clipline.28.zip" length="5496505" type="application/octet-stream" sparkle:edSignature="nRA08RsK7zRr3jFBZRepYue6BT36L6dfZBPvaFJd81TBtFcEgN40ql2efVSAHTHEhzbqPuqMd7FhzB7+HR8ICg=="/>
+        </item>
+        <item>
             <title>1.8.1-clipline.27</title>
             <pubDate>Thu, 05 Nov 2026 18:17:43 +0800</pubDate>
             <link>https://github.com/fanjiawei0725-lang/clipline-releases</link>
@@ -38,27 +54,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/fanjiawei0725-lang/clipline-releases/releases/download/v1.8.1-clipline.26/Clipline-1.8.1-clipline.26.zip" length="8076490" type="application/octet-stream" sparkle:edSignature="+H6gu4feijUyV3QAx75yP05qq/K+xgJC55vTWa4Bjm//UtZ24EMJPKANkZPtY5kpUftvlqlT1jPYwIBAyAF3Bw=="/>
         </item>
-        <item>
-            <title>1.8.1-clipline.25</title>
-            <pubDate>Wed, 04 Nov 2026 18:59:28 +0800</pubDate>
-            <link>https://github.com/fanjiawei0725-lang/clipline-releases</link>
-            <sparkle:version>36</sparkle:version>
-            <sparkle:shortVersionString>1.8.1-clipline.25</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Clipline 1.8.1-clipline.25
-
-- 更新检查改为手动触发：点击菜单“检查更新…”后才联网检查。
-- 取消自动检查开关和后台更新提醒，启动及后台运行不自动检查或下载。
-- 升级后关闭旧版已保存的自动检查、自动下载设置。
-- 保留手动下载、签名验证、安装，以及待办编辑时延后重启。
-
-已装 .24 可点击“检查更新…”安装本版；.23 及更早版本需要手动安装一次。
-]]></description>
-            <enclosure url="https://github.com/fanjiawei0725-lang/clipline-releases/releases/download/v1.8.1-clipline.25/Clipline-1.8.1-clipline.25.zip" length="8070597" type="application/octet-stream" sparkle:edSignature="gbzDQlnCo7gESxDdH2H12keAjNQY8YTIJ1O5JomQnEoIBnCFWzXvsAShD0GO7Jd2n10AMScXdA2iaSo7ACsnCg=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: LK/rg+bzzrk7soYxBkLl83jYg7oOFwJbXe6KLOy6pkoAOJC3k2nzR9rU9RC9O7nYcGASeJKx8LJTQhAbahUzCw==
-length: 4214
+edSignature: MhrfYnb5F91xTCH2pkX4G7Boi7kKSN9Pb/+dQaEPDEpeqbT/q9tQKZNxwR2+S5liXLlx/gxVdQpnMKAj5pR3Cw==
+length: 4132
 -->
