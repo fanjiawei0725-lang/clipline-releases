@@ -6,6 +6,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Clipline</title>
         <item>
+            <title>1.8.1-clipline.27</title>
+            <pubDate>Thu, 05 Nov 2026 18:17:43 +0800</pubDate>
+            <link>https://github.com/fanjiawei0725-lang/clipline-releases</link>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>1.8.1-clipline.27</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Clipline 1.8.1-clipline.27
+
+- 绳上的麻雀替换为胖乎乎的橘猫。
+- 每次展开，橘猫坐稳、抬爪舔三下、落爪起身，再沿绳向右快步离开；每次只播一遍。
+- 四肢按支撑与摆动阶段连续运动，尾巴小幅平衡，绳子随落脚轻微起伏。
+- 收起和拖拽会取消本轮动作；减少动态效果时仅短暂静态显示后淡出。
+- 保留手动检查更新、待办显示开关及截图操作。
+]]></description>
+            <enclosure url="https://github.com/fanjiawei0725-lang/clipline-releases/releases/download/v1.8.1-clipline.27/Clipline-1.8.1-clipline.27.zip" length="5496210" type="application/octet-stream" sparkle:edSignature="ndWOReEHfY5gfHIaoXEoxXv+aSqDTvMtSR4l13tFgiLUmRzLs9W3rimkoSc86iH1Vb3ztkcFuzpjjJlvpqM3Cg=="/>
+        </item>
+        <item>
             <title>1.8.1-clipline.26</title>
             <pubDate>Wed, 04 Nov 2026 21:01:54 +0800</pubDate>
             <link>https://github.com/fanjiawei0725-lang/clipline-releases</link>
@@ -39,29 +56,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/fanjiawei0725-lang/clipline-releases/releases/download/v1.8.1-clipline.25/Clipline-1.8.1-clipline.25.zip" length="8070597" type="application/octet-stream" sparkle:edSignature="gbzDQlnCo7gESxDdH2H12keAjNQY8YTIJ1O5JomQnEoIBnCFWzXvsAShD0GO7Jd2n10AMScXdA2iaSo7ACsnCg=="/>
         </item>
-        <item>
-            <title>1.8.1-clipline.24</title>
-            <pubDate>Wed, 04 Nov 2026 18:45:08 +0800</pubDate>
-            <link>https://github.com/fanjiawei0725-lang/clipline-releases</link>
-            <sparkle:version>35</sparkle:version>
-            <sparkle:shortVersionString>1.8.1-clipline.24</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Clipline 1.8.1-clipline.24
-
-- 新增自动检查更新，默认每天检查，可在菜单栏关闭。
-- “检查更新…”可直接下载、验证并安装新版。
-- 更新列表和更新包均验证 Ed25519 签名；验证失败不会安装。
-- 编辑待办时，安装重启会等待保存或取消编辑。
-- 截图与待办继续保存在本机，不随更新检查上传。
-
-首次启用更新：已有 .23 及更早版本需要手动安装本版一次，之后可通过应用内更新。
-要求 macOS 14 或更新系统，支持 Apple silicon 和 Intel Mac。
-]]></description>
-            <enclosure url="https://github.com/fanjiawei0725-lang/clipline-releases/releases/download/v1.8.1-clipline.24/Clipline-1.8.1-clipline.24.zip" length="8074092" type="application/octet-stream" sparkle:edSignature="JXUiefKJKL//BUNycJxbAzDFXom25PLc1+b6IKtfSSjTr9kNkET3UHkXQam8COC8SiIaOlx0EIYUNWLglnNfDw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: jSD0JbaeIbeCgvRf7WzBnyYlsJLogssT+yOEPsybzJmIoEFZtfcRBcUaqGASAu93LMgXu9bX59r27cuLyTUlAw==
-length: 4332
+edSignature: LK/rg+bzzrk7soYxBkLl83jYg7oOFwJbXe6KLOy6pkoAOJC3k2nzR9rU9RC9O7nYcGASeJKx8LJTQhAbahUzCw==
+length: 4214
 -->
