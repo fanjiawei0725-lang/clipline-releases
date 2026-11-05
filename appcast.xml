@@ -6,6 +6,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Clipline</title>
         <item>
+            <title>1.8.1-clipline.30</title>
+            <pubDate>Thu, 05 Nov 2026 19:27:08 +0800</pubDate>
+            <link>https://github.com/fanjiawei0725-lang/clipline-releases</link>
+            <sparkle:version>41</sparkle:version>
+            <sparkle:shortVersionString>1.8.1-clipline.30</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Clipline 1.8.1-clipline.30
+
+- 重做橘猫跑走前的整体姿态：坐稳、把前爪抬到胸口，明显低头到爪面舔三次，再抬头、落爪、起身。
+- 改用完整姿态连续过渡，移除身体、头颈和四肢的分段拼贴，处理残片与多余肢体。
+- 处理过渡帧的半透明重影，保持圆润外形和自然毛发。
+- 保留每次展开只播一遍、取消动作、减少动态效果、待办开关与手动更新。
+]]></description>
+            <enclosure url="https://github.com/fanjiawei0725-lang/clipline-releases/releases/download/v1.8.1-clipline.30/Clipline-1.8.1-clipline.30.zip" length="8510610" type="application/octet-stream" sparkle:edSignature="P48eMDDtG0QgClnpIK5S8TCA51fy+Jp3MP9QEJnKAXJ7/Ete+1BwygyW4o20tZFq7uk4DLDyrYwznYKV/OjXAg=="/>
+        </item>
+        <item>
             <title>1.8.1-clipline.29</title>
             <pubDate>Thu, 05 Nov 2026 18:53:33 +0800</pubDate>
             <link>https://github.com/fanjiawei0725-lang/clipline-releases</link>
@@ -37,26 +53,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/fanjiawei0725-lang/clipline-releases/releases/download/v1.8.1-clipline.28/Clipline-1.8.1-clipline.28.zip" length="5496505" type="application/octet-stream" sparkle:edSignature="nRA08RsK7zRr3jFBZRepYue6BT36L6dfZBPvaFJd81TBtFcEgN40ql2efVSAHTHEhzbqPuqMd7FhzB7+HR8ICg=="/>
         </item>
-        <item>
-            <title>1.8.1-clipline.27</title>
-            <pubDate>Thu, 05 Nov 2026 18:17:43 +0800</pubDate>
-            <link>https://github.com/fanjiawei0725-lang/clipline-releases</link>
-            <sparkle:version>38</sparkle:version>
-            <sparkle:shortVersionString>1.8.1-clipline.27</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Clipline 1.8.1-clipline.27
-
-- 绳上的麻雀替换为胖乎乎的橘猫。
-- 每次展开，橘猫坐稳、抬爪舔三下、落爪起身，再沿绳向右快步离开；每次只播一遍。
-- 四肢按支撑与摆动阶段连续运动，尾巴小幅平衡，绳子随落脚轻微起伏。
-- 收起和拖拽会取消本轮动作；减少动态效果时仅短暂静态显示后淡出。
-- 保留手动检查更新、待办显示开关及截图操作。
-]]></description>
-            <enclosure url="https://github.com/fanjiawei0725-lang/clipline-releases/releases/download/v1.8.1-clipline.27/Clipline-1.8.1-clipline.27.zip" length="5496210" type="application/octet-stream" sparkle:edSignature="ndWOReEHfY5gfHIaoXEoxXv+aSqDTvMtSR4l13tFgiLUmRzLs9W3rimkoSc86iH1Vb3ztkcFuzpjjJlvpqM3Cg=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: CtRdJB224hnkO2h2ntLfuSMT8Zhs3/CDrbT/lbBHKnO22uRGbzvYsAzNunzToCbROTIipjreIQWLXwwVz/ByBg==
-length: 4126
+edSignature: pLIfdTXDjHmjgzKfmU20RpFvpAw3gdKBO+NvxHGgcyU5Oi4LxBQo/kyu7ae/Ar1F/SPImF/BI2auOeUJSj8HAQ==
+length: 4129
 -->
