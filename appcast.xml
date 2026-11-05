@@ -6,6 +6,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Clipline</title>
         <item>
+            <title>1.8.1-clipline.32</title>
+            <pubDate>Thu, 05 Nov 2026 20:07:16 +0800</pubDate>
+            <link>https://github.com/fanjiawei0725-lang/clipline-releases</link>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>1.8.1-clipline.32</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Clipline 1.8.1-clipline.32
+
+- 低头与抬头改用同一张猫图的连续头颈转动，避免不同头部照片之间的形变与细节跳动。
+- 头部的五官和毛发保持同一来源，身体与抬起的前爪保持稳定。
+- 低头接近爪面后，舌头只伸出、接触、收回一次，再抬头落爪起身。
+- 保留 60 fps 预生成帧、启动预解码、截图与待办操作，以及手动检查更新。
+]]></description>
+            <enclosure url="https://github.com/fanjiawei0725-lang/clipline-releases/releases/download/v1.8.1-clipline.32/Clipline-1.8.1-clipline.32.zip" length="10909630" type="application/octet-stream" sparkle:edSignature="/VXJfZ5QdbVwTySzXxDg4x+Ooxx7z4s/QNGovy6zmOBbcHCJpk6GRfewpWnw5tdGbZWvA8XXYkMi/5ID3uLZBA=="/>
+        </item>
+        <item>
             <title>1.8.1-clipline.31</title>
             <pubDate>Thu, 05 Nov 2026 19:47:24 +0800</pubDate>
             <link>https://github.com/fanjiawei0725-lang/clipline-releases</link>
@@ -38,25 +54,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/fanjiawei0725-lang/clipline-releases/releases/download/v1.8.1-clipline.30/Clipline-1.8.1-clipline.30.zip" length="8510610" type="application/octet-stream" sparkle:edSignature="P48eMDDtG0QgClnpIK5S8TCA51fy+Jp3MP9QEJnKAXJ7/Ete+1BwygyW4o20tZFq7uk4DLDyrYwznYKV/OjXAg=="/>
         </item>
-        <item>
-            <title>1.8.1-clipline.29</title>
-            <pubDate>Thu, 05 Nov 2026 18:53:33 +0800</pubDate>
-            <link>https://github.com/fanjiawei0725-lang/clipline-releases</link>
-            <sparkle:version>40</sparkle:version>
-            <sparkle:shortVersionString>1.8.1-clipline.29</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Clipline 1.8.1-clipline.29
-
-- 修正橘猫抬爪时的矩形碎片、前肢接缝与不自然的形状。
-- 前肢使用独立的圆润轮廓，上臂与前臂保持固定长度，爪子不再变形或拉长。
-- 抬起时逐渐收腕，让收拢的爪尖朝向嘴边；头部小幅靠近前爪。
-- 保持上一版的舔爪、落爪、起身与离开节奏。
-]]></description>
-            <enclosure url="https://github.com/fanjiawei0725-lang/clipline-releases/releases/download/v1.8.1-clipline.29/Clipline-1.8.1-clipline.29.zip" length="5505589" type="application/octet-stream" sparkle:edSignature="KXJ0F16LBhTqG4oSkIfSjLHuGSLoTK1vcH9UxmU3sZB/9wgeNzow+PZOQdzgueCdyzlQIPYXUFunHpLx23iKAQ=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 7MM3MvXCttyKDgqk2EgpOnbESWTytz/1YgytTDmxnpGGLlBKKXAVJ26GDcPqjXnKs0zFy5ONnuMu0kL569B9CA==
-length: 4269
+edSignature: MheYddrowCRmP65dP2sQMLfbspwJmV6BBp6JgxYEA70HORoHbT6todH6EN6kNCNXvkicl9J2/6ZIN+BEAyimCw==
+length: 4338
 -->
